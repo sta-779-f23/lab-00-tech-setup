@@ -1,0 +1,16 @@
+---
+title: "Lab 00 - Tech Setup"
+author: "Lucy D'Agostino McGowan"
+format: html
+---
+
+
+```{r}
+#| message: false
+#| warning: false
+library(tidyverse)
+```
+
+## Exercise 1
+
+## Exercise 2
